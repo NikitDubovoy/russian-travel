@@ -1,0 +1,14 @@
+.places__website{
+    grid-area: places__website;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-self: end;
+}
+
+@media screen and (max-width: 767px){
+    .places__website{
+        margin: 0 16px;
+    } 
+
+}

@@ -1,0 +1,9 @@
+.places__link {
+    grid-area: places__link;
+    color: #fff;
+    font-size: 18px;
+}
+.places__link:hover{
+    opacity: 0.8;
+    transition: opacity 0.5s linear;
+}
