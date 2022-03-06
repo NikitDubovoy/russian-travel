@@ -1,11 +1,15 @@
 .places__text {
     grid-area: places__text;
     line-height: 29,34px;
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 29.34px;  
 }
 
 @media screen and (max-width: 1279px){
     .places__text {
-        font-size: 18px;    
+        font-size: 18px; 
+        line-height: 29.34px;   
     } 
 
 }
