@@ -4,6 +4,13 @@
     height: 740px;
 }
 
+@media screen and (max-width: 1279px){
+    .cover{
+        margin-bottom: 88px;
+        height: 740px;
+    } 
+
+}
 
 
 
